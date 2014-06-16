@@ -1,0 +1,13 @@
+{
+  "name": "webapp-requirejs",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.1.0",
+    "jquery": "~2.1.1",
+    "requirejs": "~2.1.14",
+    "underscore": "~1.6.0",
+    "backbone": "~1.1.2",
+    "marionette": "~1.8.8"
+  },
+  "devDependencies": {}
+}
